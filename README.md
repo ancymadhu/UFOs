@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/73450637/104831284-68e16b00-5855-11eb-97e4-54da29099d0f.jpg" width="500" height="200">
-
 # UFOs
+
+<img src="https://user-images.githubusercontent.com/73450637/104831284-68e16b00-5855-11eb-97e4-54da29099d0f.jpg" width="700" height="500">
 
 ## Project Overview
 
@@ -24,4 +24,13 @@ Once the values are given the table gives the specific filtered search output.
 
 ![2](https://user-images.githubusercontent.com/73450637/104831259-2d46a100-5855-11eb-9ea0-bfa99ae428b6.png)
 
-Summary
+## Summary
+
+#### Drawback of the Project
+
+1. The user have to literally type in the filter values without having any knowledge about the available data set. 
+
+#### Recommendations
+
+1. Having a drop down list to choose from fro filtering data.
+2. Making the page more user friendly by including pictures and animations. 
