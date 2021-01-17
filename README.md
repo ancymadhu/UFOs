@@ -1,4 +1,4 @@
-![4](https://user-images.githubusercontent.com/73450637/104831284-68e16b00-5855-11eb-97e4-54da29099d0f.jpg){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/73450637/104831284-68e16b00-5855-11eb-97e4-54da29099d0f.jpg" width="100" height="100">
 # UFOs
 
 ## Project Overview
