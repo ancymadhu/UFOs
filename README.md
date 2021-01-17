@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73450637/104831284-68e16b00-5855-11eb-97e4-54da29099d0f.jpg" width="500" height="700">
+<img src="https://user-images.githubusercontent.com/73450637/104831284-68e16b00-5855-11eb-97e4-54da29099d0f.jpg" width="700" height="500">
 
 # UFOs
 
