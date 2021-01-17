@@ -19,3 +19,7 @@ The options chosen by the user will take the values in data.js as reference and 
 ![3](https://user-images.githubusercontent.com/73450637/104831243-10aa6900-5855-11eb-8023-26b72175560f.png
 
 Once the values are given the table gives the specific filtered search output. 
+
+![2](https://user-images.githubusercontent.com/73450637/104831259-2d46a100-5855-11eb-9ea0-bfa99ae428b6.png)
+
+Summary
